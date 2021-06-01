@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ErrorMessages>
+  <!-- Login page-->
+  <Message Key ="1"	Value="Invalid Credentials"></Message>
+  <Message Key ="2"	Value="User Account is Disabled."></Message>
+  <Message Key ="3"	Value="Unknow Error"></Message>
+  <!-- Login Message Start-->
+
+
+</ErrorMessages>
